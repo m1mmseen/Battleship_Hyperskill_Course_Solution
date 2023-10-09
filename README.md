@@ -1,7 +1,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Project level-Intermediate-purple">
 
 # Battleship
-Hyperskill Project - Java Course
+A two-player console game where players take turns firing at ships with the aim of sinking them
 
 ## Table of Content
 - [About the project](README.md#about-the-project)
